@@ -1,0 +1,36 @@
+---
+title: "Presentation Ninja"
+subtitle: "🇵🇪<br/>with xaringan"
+author: "Vilma Romero"
+institute: "RStudio, PBC"
+date: "2021/01/19"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Slide 1
+
+---
+
+class: inverse, center, middle
+
+# Slide 2
+
+```{r}
+plot(1:10)
+```
+
+---
+
+class: inverse, center, middle
+
+![](https://www.ukcophumour.co.uk/wp-content/uploads/f2w/1526816_674334732588821_1244473478_n.jpg)
